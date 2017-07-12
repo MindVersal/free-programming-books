@@ -1,63 +1,79 @@
-List of Free Learning Resources
-===
+# List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Intro
----
+[View the English list](/free-programming-books.md)
 
-If you want to find a learning resource, you should definitely check out our site, [Free Learning Resources](http://resrc.io).
-And for those who want to learn a computer language, you should check out these books on [reSRC.io](http://resrc.io/list/10/list-of-free-programming-books/) or on [github](/free-programming-books.md).
-This list initially was a clone of [stackoverflow - List of Freely Available Programming Books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926) by George Stocker. Now updated, with dead links gone and new content.
+## Intro
+This list was originally a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) by George Stocker. 
 
-Moved to GitHub for collaborative updating and for the site mentioned above.
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It grew to become one of the [most popular repositories on Github](https://octoverse.github.com/), with over 80,000 stars, over 4000 commits, over 800 contributors, and over 20,000 forks.
 
+The repo is now administered by the [Free Ebook Foundation](https://ebookfoundation.org), a not-for-profit organization devoted to promoting the creation, distribution, archiving and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
 ### How To Contribute
-It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution).
-- [Fork](https://help.github.com/articles/fork-a-repo)
-- Edit (we prefer multiple small commits rather than one large change)
-- [Send a PR](https://help.github.com/articles/using-pull-requests  )
-- be part of a project that over 14,000 people starred in less than 2 months. ;)
 
-**Again, unlike other projects, we prefer multiple small commits rather than one large change in a pull request - it's fine to have one PR, but please make sure your title reflects what you're changing**, thanks.
+Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### How to Share
-<a href="https://twitter.com/share" class="twitter-share-button" data-url="https://github.com/vhf/free-programming-books" data-size="large">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
++ [Share on Twitter](http://twitter.com/home?status=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
++ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/EbookFoundation/free-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
++ [Share on Google Plus](https://plus.google.com/share?url=https://github.com/EbookFoundation/free-programming-books)
++ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
 
 
-### In Other Speaking Languages
-
-+ French: [github](/free-programming-books-fr.md) or [site](http://resrc.io/list/33/livres-gratuits-sur-la-programmation/).
-
-    The French list was based on <http://progdupeu.pl/forums/sujet/43/une-banque-de-liens>.
-+ German: [github](/free-programming-books-de.md)
-
-+ Italian: [github](/free-programming-books-it.md)
-
-+ Japanese: [github](/free-programming-books-ja.md)
-
-+ Russian: [github](/free-programming-books-ru.md)
-
-+ Turkish: [github](/free-programming-books-tr.md)
-
-+ Chinese: [github](/free-programming-books-zh.md)
-
-+ Polish: [github](/free-programming-books-pl.md)
-
-+ Portuguese (Portugal): [github](/free-programming-books-pt_PT.md)
-
-+ Portuguese (Brazil): [github](/free-programming-books-pt_BR.md)
-
-+ Persian/Farsi (Iran): [github](/free-programming-books-fa_IR.md)
-
-+ Spanish: [github](/free-programming-books-es.md)
-
-+ Korean: [github](/free-programming-books-ko.md)
-
+### In Other Spoken Languages
++ Arabic: [github](/free-programming-books-ar.md)
++ Azerbaijani: [github](/free-programming-books-az.md)
 + Bulgarian: [github](/free-programming-books-bg.md)
-
++ Burmese: [github](/free-programming-books-mm.md)
++ Chinese: [github](/free-programming-books-zh.md)
++ Czech: [github](/free-programming-books-cs.md)
++ English: [github](/free-programming-books.md)
++ French: [github](/free-programming-books-fr.md)
++ German: [github](/free-programming-books-de.md)
++ Greek: [github](/free-programming-books-gr.md)
++ Hungarian: [github](/free-programming-books-hu.md)
++ Indonesian: [github](/free-programming-books-id.md)
++ Italian: [github](/free-programming-books-it.md)
++ Japanese: [github](/free-programming-books-ja.md)
++ Korean: [github](/free-programming-books-ko.md)
++ Persian/Farsi (Iran): [github](/free-programming-books-fa_IR.md)
++ Polish: [github](/free-programming-books-pl.md)
++ Portuguese (Brazil): [github](/free-programming-books-pt_BR.md)
++ Portuguese (Portugal): [github](/free-programming-books-pt_PT.md)
++ Romanian (Romania): [github](/free-programming-books-ro.md)
++ Russian: [github](/free-programming-books-ru.md)
++ Slovak: [github](/free-programming-books-sk.md)
++ Spanish: [github](/free-programming-books-es.md)
++ Swedish: [github](/free-programming-books-se.md)
++ Turkish: [github](/free-programming-books-tr.md)
 + Ukrainian: [github](/free-programming-books-ua.md)
 
-### Noticable lists from [reSRC](http://resrc.io/)
 
-+ Free JavaScript frameworks resources and tutorials: [github](/javascript-frameworks-resources.md) or [site](http://resrc.io/list/18/javascript-frameworks/)
+### Free Online Courses
++ [Free Online Courses](/free-courses-en.md)
+
+
+### Interactive Programming Resources
++ [Free interactive programming tutorials](/free-programming-interactive-tutorials-en.md)
+
+
+### JavaScript Frameworks and Resources
++ [Free JavaScript frameworks resources and tutorials - English](/javascript-frameworks-resources.md)
++ [Free JavaScript frameworks resources and tutorials - Portuguese (Brazil)](/javascript-frameworks-resources-pt_BR.md)
+
+
+### Problem Sets and Competitive Programming
++ [Problem Sets](/problem-sets-competitive-programming.md)
+
+
+### Podcast - Screencast
+Free Podcasts and Screencasts:
+
++ Czech: [github](/free-podcasts-screencasts-cs.md)
++ English: [github](/free-podcasts-screencasts-en.md)
++ Portuguese (Brazil): [github](/free-podcasts-screencasts-pt_BR.md)
++ Russian: [github](/free-podcasts-screencasts-ru.md)
+
+
+### Programming Playgrounds
++ [Free Programming Playgrounds](/free-programming-playgrounds.md)
